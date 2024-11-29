@@ -1,0 +1,3 @@
+[build]
+#設定しておかないと依存関係でエラーが出る
+target = "x86_64-unknown-linux-gnu" 
